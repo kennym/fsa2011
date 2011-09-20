@@ -1,0 +1,6 @@
+[Activity]
+name = Pong
+service_name = org.paraguayeduca.PongActivity
+class = PongActivity.PongActivity
+icon = activity-generic
+activity_version = 1

@@ -1,0 +1,13 @@
+Este es el código fuente de mi taller en el FSA del año 2011.
+
+El tutorial de Pygame fue escrito por Daniel Fuentes B.
+
+.
+|-- COPYING
+|-- parte_1 # Introduccion a programacion Pygame
+|-- parte_2 # Juego Pong en Pygame
+|-- parte_3 # Actividad Pong para Sugar
+`-- README
+
+Los ejemplos están bajo la licencia X11/MIT, ver el archivo COPYING
+para mayor detalle.
